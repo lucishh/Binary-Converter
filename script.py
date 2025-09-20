@@ -1,4 +1,4 @@
-# Source code: 
+# Source code: https://github.com/lucishh/Binary-Converter/blob/main/script.py
 # Published at: codedex.io/@lucish / https://www.codedex.io/@lucish/build/binary-converter
 
 # 💙 Demical to Binary Converter 💛
